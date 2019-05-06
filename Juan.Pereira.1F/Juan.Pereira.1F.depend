@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1556585121 source:c:\users\alumno\desktop\juan.pereira.1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"clientes.h"
+
+1556585379 source:c:\users\alumno\desktop\juan.pereira.1f\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+	"clientes.h"
+
+1556585379 c:\users\alumno\desktop\juan.pereira.1f\clientes.h
+
+1556585883 source:c:\users\alumno\desktop\juan.pereira.1f\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"juegos.h"
+	"alquileres.h"
+
+1556585688 c:\users\alumno\desktop\juan.pereira.1f\alquileres.h
+	"fechas.h"
+
+1556577137 c:\users\alumno\desktop\juan.pereira.1f\fechas.h
+
+1556577137 source:c:\users\alumno\desktop\juan.pereira.1f\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1556586491 source:c:\users\alumno\desktop\juan.pereira.1f\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+	"juegos.h"
+
+1556586672 source:c:\users\alumno\desktop\juan.pereira.1f\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libreria.h"
+
+1556582473 c:\users\alumno\desktop\juan.pereira.1f\libreria.h
+
+1556586419 c:\users\alumno\desktop\juan.pereira.1f\juegos.h
+
+1557175142 source:c:\users\juan\desktop\hacer-master\juan.pereira.1f\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"juegos.h"
+	"fechas.h"
+	"alquileres.h"
+
+1557169135 c:\users\juan\desktop\hacer-master\juan.pereira.1f\libreria.h
+
+1557168852 c:\users\juan\desktop\hacer-master\juan.pereira.1f\juegos.h
+
+1557174486 c:\users\juan\desktop\hacer-master\juan.pereira.1f\alquileres.h
+	"fechas.h"
+	"clientes.h"
+
+1557175206 c:\users\juan\desktop\hacer-master\juan.pereira.1f\fechas.h
+
+1557172868 source:c:\users\juan\desktop\hacer-master\juan.pereira.1f\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+	"clientes.h"
+
+1556587068 c:\users\juan\desktop\hacer-master\juan.pereira.1f\clientes.h
+
+1557175206 source:c:\users\juan\desktop\hacer-master\juan.pereira.1f\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"fechas.h"
+
+1557171497 source:c:\users\juan\desktop\hacer-master\juan.pereira.1f\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+	"juegos.h"
+
+1557169207 source:c:\users\juan\desktop\hacer-master\juan.pereira.1f\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libreria.h"
+
+1557174087 source:c:\users\juan\desktop\hacer-master\juan.pereira.1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+	"juegos.h"
+	"libreria.h"
+	"clientes.h"
+	"alquileres.h"
+
